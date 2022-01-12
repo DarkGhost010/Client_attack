@@ -8,5 +8,4 @@ when you have granted over his/her system, the terminal should give this as resu
 
 
 usage : python3 client_attack.py and boom!!!!
-
-![DeepinScreenshot_select-area_20220112180742](https://user-images.githubusercontent.com/95978207/149167669-0d13113b-e179-4015-a163-c9b40fcea672.png)
+![DeepinScreenshot_select-area_20220112181940](https://user-images.githubusercontent.com/95978207/149168699-69706a0a-2a2c-4642-8955-ea299dc68288.png)
