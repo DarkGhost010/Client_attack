@@ -1,6 +1,6 @@
 
 # Client_attack
-this script is not that powerful of course, but you can easily access to the victim's machine however, before executing this script, it is recommended to use NMAP or other tools for being able to detect open ports and to be run this script propely it is good to have some wordlists which you might be able to brute force and later on when you find the combination between the username and the password, this script will be going to be executed admirably
+this script is not that powerful of course, but you can easily access to the victim's machine however, before executing this script, it is recommended to use NMAP or other tools for being able to detect open ports and to be run this script propely it will be useful if you have some wordlists which you might be able to brute force that IP address/server/protocol and later on when you find the combination between the username and the password, this script will be going to be executed admirably
 
 client attack remotely , this script was written for educational purposes only, do not use against to any victim, which you do not have permission for it.
 
